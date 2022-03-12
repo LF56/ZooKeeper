@@ -1,0 +1,23 @@
+{
+  "name": "zookeeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LF56/ZooKeeper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LF56/ZooKeeper/issues"
+  },
+  "homepage": "https://github.com/LF56/ZooKeeper#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
