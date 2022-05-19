@@ -4,7 +4,6 @@
   - [Description](#Description)
   - [Installation](#Install)
   - [Purpose](#Purpose)
-  - [Image](#Image)
   - [Deployed Site](#Deployed-Site)
   - [Questions](#Questions)
 
